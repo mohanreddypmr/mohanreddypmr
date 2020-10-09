@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on DataScience
 - 🌱 I’m currently learning Deeplearning
 
-- 💬 Ask me about machine learning,deep learning,NLP and python
+- 💬 Ask me about machine learning,deep learning,NLP ,Computer Vision and python
 - 📫 How to reach me:
 <p align='center'>
   <a href="https://www.linkedin.com/in/mohan-reddy-pallavula-440a26151/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
