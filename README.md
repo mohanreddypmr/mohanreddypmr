@@ -3,7 +3,7 @@
 
 ![model architecture image](./hero-ai-deep-learning-1700x330.jpg)
 
-
+- 🌱  I'm Freelancer , Blogger ,Programmer and Data Science Enthusiast
 - 🔭 I’m currently working on DataScience
 - 🌱 I’m currently learning Deeplearning
 
