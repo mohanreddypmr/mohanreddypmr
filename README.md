@@ -5,7 +5,7 @@
 
 - 🌱  I'm Freelancer , Blogger ,Programmer and Data Science Enthusiast
 - 🔭 I’m currently working on DataScience
-- 🌱 I’m currently learning Deeplearning
+- 🌱 I’m currently learning Full Stack Development
 
 - 💬 Ask me about machine learning,deep learning,NLP ,Computer Vision and python
 - 📫 How to reach me:
