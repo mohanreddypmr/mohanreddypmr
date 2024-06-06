@@ -3,9 +3,9 @@
 
 ![model architecture image](./hero-ai-deep-learning-1700x330.jpg)
 
-- 🌱  I'm Freelancer , Blogger ,Programmer and Data Science Enthusiast
-- 🔭 I’m currently working on DataScience
-- 🌱 I’m currently learning Full Stack Development
+- 🌱  I'm Freelancer ,Programmer and Data Science Enthusiast
+- 🔭 I’m currently working on AI
+- 🌱 I’m currently learning about Mlops and Large Language Models
 
 - 💬 Ask me about machine learning,deep learning,NLP ,Computer Vision and python
 - 📫 How to reach me:
