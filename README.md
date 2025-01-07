@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-![model architecture image](./hero-ai-deep-learning-1700x330.jpg)
+![me](./mohan_reddy_pallavula.png)
 
-- 🌱  I'm Freelancer ,Programmer and Data Science Enthusiast
+- 🌱  I'm Freelancer ,Programmer, Data Science and AI Enthusiast
 - 🔭 I’m currently working on AI
 - 🌱 I’m currently learning about Mlops and Large Language Models
 
