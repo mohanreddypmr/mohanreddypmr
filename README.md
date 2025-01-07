@@ -3,7 +3,7 @@
 
 ![me](./mohan_reddy_pallavula.png)
 
-- 🌱  I'm Freelancer ,Programmer, Data Science and AI Enthusiast
+- 🌱  I'm Programmer, Data Science and AI Enthusiast
 - 🔭 I’m currently working on AI
 - 🌱 I’m currently learning about Mlops and Large Language Models
 
