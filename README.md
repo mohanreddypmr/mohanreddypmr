@@ -8,11 +8,12 @@
 - 🌱 I’m currently learning about Mlops and Large Language Models
 
 - 💬 Ask me about machine learning,deep learning,NLP ,Computer Vision and Generative AI
-- 📫 How to reach me:
+
 
 ## 📈 GitHub Stats
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanreddypmr&show_icons=true&theme=radical)
 
+- 📫 How to reach me:
 <p align='center'>
   <a href="https://www.linkedin.com/in/mohan-reddy-pallavula-440a26151/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mohanreddy.pmg@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
